@@ -1,4 +1,3 @@
-```
 # 👋 Hi, I'm Combilogozaur
 
 Welcome to my GitHub profile!  
@@ -41,8 +40,7 @@ Here’s what I currently work with:
 ## 🚀 What I’m Working On
 
 - Contributing to **custom web applications** at BUN Technologies  
-- Building personal projects to strengthen my **full-stack skills**  
-- Learning **TypeScript** and **advanced React patterns**  
+- Building personal projects to strengthen my **full-stack skills**    
 - Exploring **Supabase** as a backend-as-a-service platform  
 
 ---
@@ -72,4 +70,3 @@ Feel free to reach out — I’d love to connect!
 ---
 
 **Thank you for visiting my GitHub!**
-```
